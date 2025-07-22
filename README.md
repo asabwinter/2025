@@ -1,7 +1,7 @@
-ASAB Winter Meeting 2024
+ASAB Winter Meeting 2025
 ========================
 
-This repository contains the source code for the [website of the ASAB Winter Meeting 2024](https://asabwinter2024.github.io/), the topical annual meeting of The Association for the Study of Animal Behaviour. 
+This repository contains the source code for the [website of the ASAB Winter Meeting 2025], the topical annual meeting of The Association for the Study of Animal Behaviour. 
 
 Author
 -------
