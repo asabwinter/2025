@@ -3,10 +3,10 @@ ASAB Winter Meeting 2025
 
 This repository contains the source code for the [website of the ASAB Winter Meeting 2025](https://asabwinter.github.io/2025/), the topical annual meeting of The Association for the Study of Animal Behaviour. 
 
-Author
+Authors
 -------
 
-This website was forked from the 2024 GitHub winter ASAB website  created by Friederike [freddy; she/her] Hillemann ([fhillemann.github.io](https://fhillemann.github.io/)) 
+This website was forked from the 2024 GitHub winter ASAB website created by Friederike [freddy; she/her] Hillemann ([fhillemann.github.io](https://fhillemann.github.io/)), and updated by the 2025 organising committee (Jolyon Troscianko, Laura Kelley, and Innes Cuthill). 
 
 
 
