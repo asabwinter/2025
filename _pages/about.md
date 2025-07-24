@@ -3,6 +3,7 @@ title: "Winter ASAB"
 permalink: /
 layout: single
 author_profile: true
+share: true
 redirect_from: 
   - /about/
   - /about.html
