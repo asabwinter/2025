@@ -3,6 +3,7 @@ title: "Registration"
 permalink: /registration/
 layout: single
 author_profile: true
+share: true
 ---
 
 
