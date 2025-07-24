@@ -1,0 +1,23 @@
+main:
+  - title: "Home"
+    url: /about/
+
+  - title: "Registration"
+    url: /registration/
+
+  - title: "Plenary Speakers"
+    url: /plenaries/
+
+  - title: "Venue"
+    url: /venue/
+    
+  - title: "Organisers"
+    url: /organisers/
+
+  - title: "Code of Conduct"
+    url: /code/    
+        
+#  - title: "Blog Posts"
+#    url: /year-archive/
+
+# baseurl: "j_site"
