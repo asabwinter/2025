@@ -7,6 +7,6 @@ layout: single
 
 <img src="/2025/images/Barbara_Caspers.jpg" width="250"/>
 
-I am a behavioural ecologist mainly interested in the function and mechanism of chemical communication,  the evolution of chemical cues in vertebrates and how relatedness is encoded in body odours and the impact of microbes on communication.
+**Barbara A. Caspers** is a Professor of Behavioural Ecology at Bielefeld University, where she leads research into the function and mechanisms of chemical communication in vertebrates, with a special focus on olfactory kin recognition in birds and mammals. Originally trained on olfactory communication in sac‑winged bats during her PhD, she has since investigated scent-based nest and familial recognition in zebra finches, fire salamanders, blue tits, and Antarctic fur seals. A recipient of the Freigeist Fellowship from the Volkswagen Foundation, Caspers’ innovative work has shed light on the role of body odours and skin microbiomes in social and reproductive behaviour.
 
 [Barbara Caspers' Website](https://barbaracaspers.wordpress.com/)
