@@ -52,14 +52,14 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "@asab.org‬" # Replace this with you Bluesky username
-  facebook         : # Username
+  bluesky          : "@asab.org‬" # Replace this with your Bluesky username
+  facebook         : "ASABorganisation" # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "asab_org" # Username
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
