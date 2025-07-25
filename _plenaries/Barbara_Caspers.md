@@ -1,6 +1,6 @@
 ---
 title: "Barbara Caspers"
-excerpt: "Behavioural Ecologist at Bielefeld University.<br/><img src='/2025/images/Innes.jpg' width='150'>"
+excerpt: "Behavioural Ecologist at Bielefeld University.<br/><img src='/2025/images/Barbara_Caspers.jpg' width='150'>"
 layout: single
 ---
 
