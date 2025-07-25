@@ -1,6 +1,6 @@
 ---
 title: "Toshitaka N Suzuki"
-excerpt: "Associate Professor in Animal Behaviour at Tokyo University (he/him) <br/><img src='/2025/images/Toshitaka_Suzuki.jpg' width='150'>"
+excerpt: "Associate Professor in Animal Behaviour at Tokyo University (he/him) - Tinbergen Lecture <br/><img src='/2025/images/Toshitaka_Suzuki.jpg' width='150'>"
 layout: single
 ---
 
