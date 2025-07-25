@@ -12,6 +12,7 @@ redirect_from:
 
 ### Venue: Edinburgh Royal College of Physicians
 ### Date: 15th-16th of December
+### Talk/poster abstract submission deadline: 29th of August
 ----
 
 What is it like to be a bat? The conclusion in Thomas Nagel’s famous philosophical discourse was that we probably can never know. However, as animal behaviourists, it is imperative that we both understand the sensory world of other species and incorporate that knowledge in our studies of behaviour. Behaviour is how animals interact with their environment and the senses provide the information necessary for decision-making. Furthermore, in a rapidly changing world, human sounds, light, smells and magnetic fields swamp sensory systems and decision-making processes that evolved under different conditions, leading to maladaptive behaviour. 
