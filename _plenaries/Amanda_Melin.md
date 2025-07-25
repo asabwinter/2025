@@ -1,6 +1,6 @@
 ---
 title: "Amanda Melin"
-excerpt: "Professor of Biological Anthropology at the University of Calgary <br/><img src='/2025/images/Amanda_Melin.jpg' width='150'>"
+excerpt: "Professor of Biological Anthropology at the University of Calgary (she/her) <br/><img src='/2025/images/Amanda_Melin.jpg' width='150'>"
 layout: single
 ---
 
