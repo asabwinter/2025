@@ -10,7 +10,10 @@ layout: single
 Jolyon is an Associate Professor at the University of Exeter (Cornwall). Jolyon's research covers themes such as the impact of artificial light on moths, how land use and scene properties affect camouflage in ground nesting birds.
 Broad research specialisms:
 
--Sensory ecology & evolution
--Camouflage
--Sensory modelling; developing new technology and code to “see” through the visual systems of different animals
--Animal Behaviour & Learning
+- Sensory ecology & evolution
+- Camouflage
+- Sensory modelling; developing new technology and code to “see” through the visual systems of different animals
+- Animal Behaviour & Learning
+
+[University Profile](https://experts.exeter.ac.uk/22827-jolyon-troscianko) |
+[Google Scholar profile](https://scholar.google.co.uk/citations?user=kV0iFIgAAAAJ&hl=en&oi=ao)
