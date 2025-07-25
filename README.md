@@ -2,7 +2,7 @@
 
 Developed by Jolyon Troscianko in 2025, taking content from the [previous year's github-based site](https://asabwinter2024.github.io/), and using the Jekyll [academicpages website repository](https://github.com/academicpages/academicpages.github.io) (which has an MIT license), itself forked from [minimal-mistakes](https://mmistakes.github.io/minimal-mistakes/)
 
-## Future ASAB Winter conference organisers (or anyone else) - feel free to copy this site and adjust for your own conference
+## Future ASAB Winter conference organisers (or anyone else) - simply fork (make a copy of) this site and adjust for your own conference
 
 This site can read and format content using markdown files, so you can probably just adjust all the code on Github directly. Create new .md files for each of your organisers and plenary speakers. Drop the relevant images in the images directory and update the links (see an existing version for formatting).
 
