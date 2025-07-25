@@ -4,7 +4,7 @@ Developed by Jolyon Troscianko in 2025, taking content from the [previous year's
 
 ## Future ASAB Winter conference organisers (or anyone else) - simply fork (make a copy of) this site and adjust for your own conference
 
-This site can read and format content using markdown files, so you can probably just adjust all the code on Github directly. Create new .md files for each of your organisers and plenary speakers. Drop the relevant images in the images directory and update the links (see an existing version for formatting).
+This site can read and format content using markdown files, so you can probably just adjust all the code on Github directly. Create new .md files for each of your organisers and plenary speakers. Just copy the format of existing md files (leave the header info at the top of the file). Drop the relevant images in the images directory and update the links (see an existing version for formatting).
 
 - Adjust the content of the pages found in _pages (about.md is the homepage)
 - Add plenary speakers (each with their own .md file) in _pleanaries
